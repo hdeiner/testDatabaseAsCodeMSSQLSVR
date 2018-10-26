@@ -14,11 +14,6 @@
             <artifactId>univocity-parsers</artifactId>
             <version>2.7.6</version>
         </dependency>
-        <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc</artifactId>
-            <version>12.2.0.1</version>
-        </dependency>
     </dependencies>
 
     <build>
